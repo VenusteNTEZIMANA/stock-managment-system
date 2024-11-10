@@ -1,0 +1,42 @@
+ .error{
+	background:#f2DEDE;
+	color:#A94442;
+	padding: 10PX;
+	width: 95%;
+	border-radius: 5px;
+	margin: 20px auto;
+	height: 35px;
+}
+input{
+	padding: 10px;
+	width:95% ;
+	display:block ;
+	margin:10px auto ;
+	border-radius: 2px;
+	border: 2px solid #ccc;
+
+}
+button{padding: 10px;
+	width:95% ;
+	display:block ;
+	margin:10px auto ;
+	border-radius: 2px;
+	border: 2px solid #ccc;
+  }
+  label{
+
+  }
+  button:hover{
+  capacity:7;
+  }
+  .wd-450{
+  	width: 650px;
+  }
+  .vh-100{
+  	position: absolute;
+  	margin-top: 2px;
+  	min-height: 100vh;
+  }
+  .youtue{
+  	width: 70px;
+  }
